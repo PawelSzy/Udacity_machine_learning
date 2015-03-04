@@ -1,0 +1,12 @@
+(lp0
+S'poi'
+p1
+aS'from_this_person_to_poi'
+p2
+aS'deferral_payments'
+p3
+aS'expenses'
+p4
+aS'long_term_incentive'
+p5
+a.
